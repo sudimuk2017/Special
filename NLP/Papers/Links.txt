@@ -1,3 +1,5 @@
 1. https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 2. https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
 3. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+4. https://www.tensorflow.org/tutorials/text/word2vec
+5. https://www.tensorflow.org/guide/keras/rnn
