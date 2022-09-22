@@ -3,3 +3,5 @@
 3. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 4. https://www.tensorflow.org/tutorials/text/word2vec
 5. https://www.tensorflow.org/guide/keras/rnn
+6. https://www.guru99.com/rnn-tutorial.html
+7. https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537
